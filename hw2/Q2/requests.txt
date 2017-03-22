@@ -1,0 +1,11 @@
+w,z
+p,q
+a,c
+s,x
+p,t
+t,q
+p,y
+s,r
+y,x
+q,t
+t,r

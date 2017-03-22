@@ -1,0 +1,10 @@
++/ab-cd
+a+b+c+d
+++a*bcd
+*+ab+cd
+a+b*c+d
++*ab*cd
+ab*cd*+
++++abcd
+/*a+bcdef
+abc+*d/
