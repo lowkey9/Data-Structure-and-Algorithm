@@ -1,0 +1,2 @@
+Q2: Implement quicksort using median-of-three to choose the pivot. Compare it with top-down mergesort
+Q3: Implement select() and rank() with BST
